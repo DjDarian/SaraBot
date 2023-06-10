@@ -18,8 +18,8 @@ global.owner = [
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
-global.mods = ['50495745934'] 
-global.prems = ['595986172767', '5493704555464']
+global.mods = ['54'] 
+global.prems = ['54', '54']
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -58,36 +58,36 @@ global.imagen1 = ['./media/menu1.jpg']
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 // Sticker WM
-global.packname = 'NovaBot-MD'
-global.author = 'NovaBot-MD'
+global.packname = 'DarianBot'
+global.author = 'DarianBot'
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
-global.fgig = 'https://github.com/elrebelde21/NovaBot-MD'
+global.fgig = 'https://github.com/DjDarian/SaraBot'
  
-global.yt = 'https://www.youtube.com/@TheLoliBot-MD'
+global.yt = 'https://www.youtube.com/djdarianromano'
 
-global.fgpyp = 'tiktok.com/@thelolibot_md'
+global.fgpyp = 'tiktok.com/djdarianromano'
 
-global.faceb = 'https://facebook.com/groups/872989990425789/'
+global.faceb = 'https://facebook.com/djdarian.romano1'
 
 global.vs = '1.5.0'
 
-global.lb = 'ɴᴏᴠᴀʙᴏᴛ-ᴍᴅ'
+global.lb = 'DarianBot'
 global.lolibot = lb
 
-global.dygp = 'https://chat.whatsapp.com/I3qjtQABJPaB65i2uhGe81' //grupo del bot
-global.nn = 'https://chat.whatsapp.com/HZmxLV9XQYU' //Grupo Colaboración 
-global.nna = 'https://chat.whatsapp.com/JESaesjOEcB6wnGX0QYT9o' //UPDATE
+global.dygp = 'https://chat.whatsapp.com/agregar enlace' //grupo del bot
+global.nn = 'https://chat.whatsapp.com/agregar enlace' //Grupo Colaboración 
+global.nna = 'https://chat.whatsapp.com/agregar enlace' //UPDATE
 
 global.fglog = 'https://telegra.ph/file/1861aab98389b13db8588.png' 
 
 global.multiplier = 69 
-global.maxwarn = '4' // máxima advertencias
+global.maxwarn = '5' // máxima advertencias
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
-global.wm = 'ɴᴏᴠᴀʙᴏᴛ-ᴍᴅ'
+global.wm = 'DarianBot'
 global.wait = '*⌛ _Cargando..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
