@@ -1,37 +1,37 @@
-ᴺᵒᵛᵃᴮᵒᵗ ᵗᵒᵈᵃᵛᶦ́ᵃ ⁿᵒ ᵉˢᵗᵃ́ ᵗᵉʳᵐᶦⁿᵃⁿᵈᵒ ✨
+SaraBot ᵗᵒᵈᵃᵛᶦ́ᵃ ⁿᵒ ᵉˢᵗᵃ́ ᵗᵉʳᵐᶦⁿᵃⁿᵈᵒ ✨
 
 <p align="center"> 
-  <a href="https://github.com/elrebelde21"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=NovaBot-MD++%F0%9F%92%96;Gracias+por+visitar+este+repositorio.+%F0%9F%92%96" height="90px"
+  <a href="https://github.com/elrebelde21"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=SaraBot++%F0%9F%92%96;Gracias+por+visitar+este+repositorio.+%F0%9F%92%96" height="90px"
 </p>
 
 ### `○ DUDAS SOBRE EL BOT?, CONTACTAME ✨`
-<a href="http://wa.me/5492266466080" target="blank"><img src="https://img.shields.io/badge/creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-<a href="http://wa.me/5214531173598" target="blank"><img src="https://img.shields.io/badge/Azami - Colaborador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="http://wa.me/543735634129" target="blank"><img src="https://img.shields.io/badge/creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="http://wa.me/543735634129" target="blank"><img src="https://img.shields.io/badge/Azami - Colaborador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 <p align="hihg">   
-<a href="https://instagram.com/gata_dios" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="30px"> 
-<a href="https://github.com/GataNina-Li"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=14&duration=3000&color=ABF7BB&center=verdadero&vCenter=verdadero&lines=Solo+escr%C3%ADba+si+tiene+dudas." height="40px"
+<a href="https://instagram.com/AGREGAR LINK" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="30px"> 
+<a href="(https://github.com/DjDarian)"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=14&duration=3000&color=ABF7BB&center=verdadero&vCenter=verdadero&lines=Solo+escr%C3%ADba+si+tiene+dudas." height="40px"
 </p> 
 
 [![blog](https://img.shields.io/badge/Grupo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
-)](https://chat.whatsapp.com/I3qjtQABJPaB65i2uhGe81)  <a href="https://chat.whatsapp.com/I3qjtQABJPaB65i2uhGe81"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
+)](https://chat.whatsapp.com/AGREGAR GRUPO)  <a href="https://chat.whatsapp.com/AGREGAR GRUPO"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
 
 
 
 [![blog](https://img.shields.io/badge/Grupo-Update-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
-)](https://chat.whatsapp.com/JESaesjOEcB6wnGX0QYT9o)  <a href="https://chat.whatsapp.com/JESaesjOEcB6wnGX0QYT9o"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
+)](https://chat.whatsapp.com/AGREGAR GRUPO)  <a href="https://chat.whatsapp.com/AGREGAR GRUPO"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
 -----
 [![blog](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
-](https://facebook.com/groups/872989990425789/)  
+](https://facebook.com/AGREGAR FACEBOOK)  
 
 <p align="center">
 <img src="https://telegra.ph/file/fed1c9d94b37511e570d5.mp4" alt="" width="500"/>
   
 [![blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-](https://youtu.be/gh5NajZOTA8)  <img src="https://github.com/siegrin/siegrin/blob/main/Assets/powerup.gif" height="29px">
+](https://youtu.be/AGREGAR YOUTUBE)  <img src="https://github.com/siegrin/siegrin/blob/main/Assets/powerup.gif" height="29px">
 
 <p align="center"> 
-  <a href="https://github.com/elrebelde21"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=pagina++%F0%9F%92%96;quiere+tener+un+bot+activo+24/7+adicnodes..+%F0%9F%92%96" height="90px"
+  <a href="https://github.com/DjDarian"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=pagina++%F0%9F%92%96;quiere+tener+un+bot+activo+24/7+adicnodes..+%F0%9F%92%96" height="90px"
 </p>
 
 -----
@@ -50,7 +50,7 @@
 [![Deploy](https://img.shields.io/badge/replit_-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/github/elrebelde21/NovaBot-MD)
 <a href="https://replit.com/github/elrebelde21/NovaBot-MD"> <img src="https://media0.giphy.com/media/lMwu8EJAnv9kmn51KQ/giphy.gif" height="29px"></a>
 -----
-- [x] Resultado <details><summary>Importar Repositorio - NovaBot-MD</summary><img src="https://i.imgur.com/GQyRnMf.jpg"></details>
+- [x] Resultado <details><summary>Importar Repositorio - SaraBot</summary><img src="https://i.imgur.com/GQyRnMf.jpg"></details>
 -----
 ---------
 
@@ -62,8 +62,8 @@
 > pkg install ffmpeg && pkg install libwebp
 > pkg install nodejs
 > pkg install yarn
-> git clone https://github.com/elrebelde21/NovaBot-MD
-> cd NovaBot-MD
+> git clone https://github.com/DjDarian/SaraBot/
+> cd SaraBot
 > npm install
 > yarn
 > npm start
@@ -73,7 +73,7 @@
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd NovaBot-MD
+> cd SaraBot
 > rm -rf session.data.json
 > npm start
 ```
@@ -106,10 +106,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 ```
 ## `𝐄𝐃𝐈𝐓𝐎𝐑 𝐘 𝐏𝐎𝐑𝐏𝐈𝐄𝐓𝐀𝐑𝐈𝐎 𝐃𝐄𝐋 𝐁𝐎𝐓` 
-<a href="https://github.com/elrebelde21"><img src="https://github.com/elrebelde21.png" width="300" height="300" alt="elrebelde21"/></a>
+<a href="https://github.com/DjDarian"><img src="https://github.com/elrebelde21.png" width="300" height="300" alt="elrebelde21"/></a>
 
 ## `👑Colaboradores👑` 
-[![GataNina-Li](https://github.com/GataNina-Li.png?size=100)](https://github.com/GataNina-Li) 
-[![Misaelsharkbot](https://github.com/Misaelsharkbot.png?size=100)](https://github.com/Misaelsharkbot)
-[![Azami19](https://github.com/Azami19.png?size=100)](https://github.com/Azami19)
-[![antonio32114](https://github.com/Antonio32114.png?size=100)](https://github.com/Antonio32114)
+
