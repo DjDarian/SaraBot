@@ -5,11 +5,11 @@ RUN sudo dnf -y update &&\
     sudo dnf install -y git ffmpeg ImageMagick nodejs yarnpkg libwebp &&\
     sudo dnf clean all -y
 
-RUN git clone https://github.com/elrebelde21/NovaBot-MD
+RUN git clone https://github.com/DjDarian/SaraBot
 
-WORKDIR /root/NovaBot-MD 
+WORKDIR /root/DarianBot 
 
-COPY ./root/NovaBot-MD
+COPY ./root/DarianBot
 
 RUN yarn install
 
