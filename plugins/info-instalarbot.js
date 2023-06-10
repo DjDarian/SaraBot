@@ -6,7 +6,7 @@ await m.reply(`╰⊱🔰⊱ *𝙸𝙽𝚂𝚃𝙰𝙻𝙰𝙲𝙸𝙾𝙽* ⊱�
   //conn.sendButton(m.chat, str, author, await(await fetch(pp)).buffer(), [['Menu', '/menu']], m)
 let texto1 = `
 ᴘᴀsᴏ ᴅᴇʟ ɪɴsᴛᴀʟᴀᴄɪᴏɴ 
-ɴᴏᴠᴀʙᴏᴛ-ᴍᴅ ʏᴀ ᴇsᴛᴀ ʟɪsᴛᴀ ᴘᴀʀᴀ ʟᴀ ɪɴsᴛᴀʟᴀᴄɪᴏɴ 
+DarianBot ʏᴀ ᴇsᴛᴀ ʟɪsᴛᴀ ᴘᴀʀᴀ ʟᴀ ɪɴsᴛᴀʟᴀᴄɪᴏɴ 
 
 📌 ᴘᴀsᴏ ᴘᴀʀᴀ ɪɴsᴛᴀʟᴀʀ ᴇʟ ʙᴏᴛ ᴇʟ ᴛᴇʀᴍᴜx
 📌 ᴄᴏᴍᴏ ɪɴsᴛᴀʟᴀʀ ᴇʟ ʙᴏᴛ: 
@@ -25,8 +25,8 @@ https://www.mediafire.com/file/t2yaabinm704frd/Termux_118_by_shan.apk/file
 >  pkg install ffmpeg && pkg install libwebp
 >  pkg install nodejs
 >  pkg install yarn
->  git clone https://github.com/elrebelde21/NovaBot-MD
->  cd NovaBot-MD
+>  git clone https://github.com/DjDarian/SaraBot
+>  cd SaraBot
 >  npm install
 >  yarn
 >  npm start
@@ -34,9 +34,9 @@ https://www.mediafire.com/file/t2yaabinm704frd/Termux_118_by_shan.apk/file
 
 📌 sɪ ɴᴇᴄᴇsɪᴛᴀs ᴀʏᴜᴅᴀ ᴇɴᴛʀᴀ ᴀʟ ɢʀᴜᴘᴏ ᴅᴇʟ ʙᴏᴛ (ᴜᴘᴅᴀᴛᴇ)
 
-📌 *https://chat.whatsapp.com/JESaesjOEcB6wnGX0QYT9o*
+📌 *https://chat.whatsapp.com/agregar enlace*
 
- ᴏ ᴇsᴄʀɪʙɪᴍᴇ ᴀʟ wa.me/56964787183
+ ᴏ ᴇsᴄʀɪʙɪᴍᴇ ᴀʟ wa.me/543735634129
  sᴏʟᴏ ᴘᴏʀ ᴛᴇᴍᴀ ᴅᴇʟ ʙᴏᴛ`
 let buttonMessage= {
 'document': { url: `https://youtu.be/13xBCq2ifGs` },
